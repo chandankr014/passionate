@@ -1,0 +1,6 @@
+processing
+downloading
+retryign downloading
+uploading
+configuring
+done:)
